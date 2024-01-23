@@ -16,7 +16,7 @@
  .caja{
     width: 250px;
     height: 250px;
-    background-color: aqua;
+    background-color: grey;
     border: 5px solid darkslategray;
     margin: 15px 15px 15px 15px;
     margin-top: 10px;
@@ -26,6 +26,7 @@
     padding: 20px;
     float:left;
     display: block;
+    border-radius: 10px;
  }
  .caja p{
     font-weight: bold;
